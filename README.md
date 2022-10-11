@@ -1,7 +1,7 @@
 # Predictive-analysis-using-ML
 
 This pdf file contains .ipynb code for predictive analysis of campus recruitment.
-Aim : Finding best model fit for campus recruitment dataset.
+The aim is to find best model fit for campus recruitment dataset.
 
 followng libraries are used in project:
 1) Sklearn
